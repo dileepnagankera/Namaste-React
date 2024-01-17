@@ -1,19 +1,6 @@
-/**<div id="parent">
-  <div id="child">
-    <h1>Im h1 tah</h1>
-    <h2>Im h1 tah</h2>
-  </div>
-  <div id="child2">
-    <h1> im h2 tag</h1>
-    <h2> im h2 tag</h2>
-  </div>
-</div>;
+import React from "react"
+import { ReactDOM } from "react-dom/client";
 
-
-
-ReactElement(object)=>HTML(Browser UnderStands)
-
-*/
 
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
