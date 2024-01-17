@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react-1",
+  "version": "1.0.0",
+  "description": "this is Namaste React by Dileep Reddy",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/dileepnagankera/Namaste-React-1.git"
+  },
+  "keywords": [
+    "react",
+    "dileep"
+  ],
+  "author": "Dileep Reddy",
+  "license": "ISC"
+}
